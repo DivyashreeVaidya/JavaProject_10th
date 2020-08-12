@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Index
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ choice
+comment2.target=boolean\ check(int,\ java.lang.String)
+comment3.params=m
+comment3.target=java.lang.String\ monthcheck(java.lang.String)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ tylogo()
+numComments=6
